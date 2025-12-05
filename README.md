@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard-preview.png)
 🚗 Car Sales Dashboard – Power BI (Beginner Project)
 
 This dashboard provides insights into car sales across various states, brands, and months.
